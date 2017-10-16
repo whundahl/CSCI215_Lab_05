@@ -1,7 +1,7 @@
 # Lab_05
 DOM manipulation
 
-Name: _______________________________________
+Name: ______William Hundahl______
 
 ## DUE: 15 Oct 2017 @ 11:59 pm
 
